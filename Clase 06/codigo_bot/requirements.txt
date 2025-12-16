@@ -1,0 +1,8 @@
+openai>=1.0.0
+python-dotenv>=1.0.0
+dotenv-cli # Para manejar variables de entorno al hacer deploy en Gradio
+ipython
+pypdf
+gradio
+pydantic
+requests
