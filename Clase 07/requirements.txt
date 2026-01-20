@@ -1,0 +1,5 @@
+python-dotenv
+httpx
+openai-agents
+sendgrid==6.11.0
+ipykernel
